@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "42b016ae9035396e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebaedce2721e06e3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Resume.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "82c39d9eb45be956",
+    "type": "split",
+    "children": [
+      {
+        "id": "f766386a196b269d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "076e50deeb1de7f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0333850acf7368ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f2c7730efc04c1ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "066f7e726cd399f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c2e77314e1f8ae2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Resume.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ebaedce2721e06e3",
+  "lastOpenFiles": [
+    "Resume.md",
+    "Web stack.md",
+    "twyoo/생각정리.md",
+    "미래시티글로벌.md",
+    "유로한 유사랑.md",
+    "스크린샷 2022-03-03 오후 2.16.33.png"
+  ]
+}
